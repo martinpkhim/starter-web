@@ -13,7 +13,11 @@ of the Git repository
 ## Purpose
 
 Sample website with plenty of files for demos
+As stated above..
 
 ## Deployment
+
+This is a simple web project.
+Deployment can be on any web server or local filesystem
 
 ## How to contribute
